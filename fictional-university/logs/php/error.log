@@ -56,3 +56,4 @@ Stack trace:
 #5 {main}
   thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
 [05-Dec-2024 20:17:01 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[05-Dec-2024 20:57:19 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\class-wp-customize-widgets.php on line 923
