@@ -1,0 +1,1 @@
+<h1> Greeting from footer.php</h1>

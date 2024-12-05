@@ -1,0 +1,58 @@
+[02-Dec-2024 20:55:47 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php:10
+Stack trace:
+#0 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php(21): trailingZeros(6)
+#1 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hadee\\...')
+#2 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hadee\\...')
+#3 C:\Users\hadee\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\hadee\\...')
+#4 {main}
+  thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 10
+[05-Dec-2024 19:58:26 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 8
+[05-Dec-2024 19:58:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[05-Dec-2024 19:58:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[05-Dec-2024 20:00:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10 and at least 2 expected in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php(10): add_action()
+#1 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-settings.php(672): include('C:\\Users\\hadee\\...')
+#2 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\hadee\\...')
+#3 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\hadee\\...')
+#4 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hadee\\...')
+#5 {main}
+  thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[05-Dec-2024 20:04:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10 and at least 2 expected in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php(10): add_action()
+#1 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-settings.php(672): include('C:\\Users\\hadee\\...')
+#2 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\hadee\\...')
+#3 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\hadee\\...')
+#4 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hadee\\...')
+#5 {main}
+  thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[05-Dec-2024 20:06:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10 and at least 2 expected in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php(10): add_action()
+#1 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-settings.php(672): include('C:\\Users\\hadee\\...')
+#2 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\hadee\\...')
+#3 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\hadee\\...')
+#4 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hadee\\...')
+#5 {main}
+  thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[05-Dec-2024 20:08:57 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_scripts" in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 11
+[05-Dec-2024 20:10:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 10 and at least 2 expected in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php(10): add_action()
+#1 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-settings.php(672): include('C:\\Users\\hadee\\...')
+#2 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\hadee\\...')
+#3 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\hadee\\...')
+#4 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hadee\\...')
+#5 {main}
+  thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[05-Dec-2024 20:12:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 17 and at least 2 expected in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php(17): add_action('wp_enqueue_scri...')
+#1 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-settings.php(672): include('C:\\Users\\hadee\\...')
+#2 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\hadee\\...')
+#3 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\hadee\\...')
+#4 C:\Users\hadee\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hadee\\...')
+#5 {main}
+  thrown in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[05-Dec-2024 20:17:01 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\hadee\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
